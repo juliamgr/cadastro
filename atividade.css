@@ -1,0 +1,13 @@
+*{
+font-family: cursive;
+}
+
+ul{
+    list-style-type: none;
+}
+
+body{
+    background-color: thistle;
+    border: 5px double whitesmoke;
+    text-align: center;
+}
